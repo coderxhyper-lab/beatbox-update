@@ -1,6 +1,1 @@
-{
-  "versionCode": 43,
-  "versionName": "4.1.2",
-  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-4.1.2.apk",
-  "notes": "BeatBox 4.1.2 — taps work again. The app script was dying on launch (a download callback was set before the player object existed), so no button responded and the home stayed empty. Fixed at the root; home loads instantly and every tap works — songs, search, Island, settings."
-}
+{"apkUrl":"https://coderxhyper-lab.github.io/beatbox-update/BeatBox-4.1.4.apk","notes":"BeatBox 4.1.4 — the home now looks exactly like the web app: BeatBox + version chip header, Good night greeting with the date, Jump back in song cards with art, the Bollywood / Punjabi / Romance / Lo-Fi strip, and the red bottom nav pill. Full songs from YouTube included.","versionCode":45,"versionName":"4.1.4"}
