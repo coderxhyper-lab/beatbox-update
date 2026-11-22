@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "3.9.1",
-  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-3.9.1.apk",
-  "notes": "In-app updates are here — the app now checks for new versions itself and offers one-tap download and install. Also: sound modes removed, Dark / Light / Yellow theme toggle, real voice search, new premium splash."
+  "versionCode": 41,
+  "versionName": "4.1",
+  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-4.1.apk",
+  "notes": "BeatBox 4.1 — final polish: brand-new logo, new soundwave splash screen, real Dynamic Island live pill, and a home screen that never stays empty — saved songs load instantly even on a slow connection, with Retry when the network fails. All songs and playback fixed and polished."
 }
