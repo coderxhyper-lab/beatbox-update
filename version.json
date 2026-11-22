@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "4.1",
-  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-4.1.apk",
-  "notes": "BeatBox 4.1 — final polish: brand-new logo, new soundwave splash screen, real Dynamic Island live pill, and a home screen that never stays empty — saved songs load instantly even on a slow connection, with Retry when the network fails. All songs and playback fixed and polished."
+  "versionCode": 42,
+  "versionName": "4.1.1",
+  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-4.1.1.apk",
+  "notes": "BeatBox 4.1.1 — the dim home screen is fixed for real (a CSS bug left the sheet backdrop visible on every launch) and the home now loads instantly from bundled songs even on a 1 KB/s connection. Updates now arrive in a small in-app sheet: live download progress and the Install button are all in the same place."
 }
