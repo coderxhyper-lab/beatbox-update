@@ -1,9 +1,9 @@
 {
-  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-4.2.8.apk",
-  "notes": "BeatBox 4.2.8 \u2014 Update now",
-  "versionCode": 59,
-  "versionName": "4.2.8",
+  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-4.2.9.apk",
+  "notes": "BeatBox 4.2.9 \u2014 Update now",
+  "versionCode": 60,
+  "versionName": "4.2.9",
   "comingSoon": true,
-  "comingSoonVersion": "4.2.9",
-  "comingSoonNote": "BeatBox 4.2.9 is on its way"
+  "comingSoonVersion": "5.2.9",
+  "comingSoonNote": "BeatBox 5.2.9 is on its way"
 }
