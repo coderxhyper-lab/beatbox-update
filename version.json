@@ -1,10 +1,1 @@
-{
-  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-4.2.6.apk",
-  "backendUrl": "https://beatbox-api.coderxhyper.workers.dev",
-  "notes": "BeatBox 4.2.6 \u2014 Update now",
-  "versionCode": 57,
-  "versionName": "4.2.6",
-  "comingSoon": true,
-  "comingSoonVersion": "4.2.7",
-  "comingSoonNote": "BeatBox 4.2.7 is on its way"
-}
+{"apkUrl":"https://coderxhyper-lab.github.io/beatbox-update/BeatBox-4.2.7.apk","backendUrl":"https://beatbox-api.coderxhyper.workers.dev","notes":"BeatBox 4.2.7 — Update now","versionCode":58,"versionName":"4.2.7"}
