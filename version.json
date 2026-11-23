@@ -1,9 +1,6 @@
 {
-  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-5.3.0.apk",
-  "notes": "BeatBox 5.3.0 \u2014 Update now",
-  "versionCode": 62,
-  "versionName": "5.3.0",
-  "comingSoon": true,
-  "comingSoonVersion": "5.4.0",
-  "comingSoonNote": "BeatBox 5.4.0 is on its way"
+  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-5.4.0.apk",
+  "notes": "BeatBox 5.4.0 — video removed, lyrics, high refresh rate, smooth transitions",
+  "versionCode": 63,
+  "versionName": "5.4.0"
 }
