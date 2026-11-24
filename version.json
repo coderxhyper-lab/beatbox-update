@@ -1,9 +1,11 @@
 {
-  "versionCode": 69,
-  "versionName": "5.4.6",
-  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-5.4.6.apk",
-  "notes": "BeatBox 5.4.6 — Update now",
-  "comingSoon": true,
-  "comingSoonVersion": "5.4.7",
-  "comingSoonNote": "BeatBox 5.4.7 — Universal Island, delta updates, all fixes"
+  "versionCode": 70,
+  "versionName": "5.4.7",
+  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-5.4.7.apk",
+  "notes": "BeatBox 5.4.7 — Update now",
+  "patchUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-5.4.7.patch",
+  "patchSize": 734499,
+  "patchMd5": "0f371fa183777e7eeee2117bf8751e2a",
+  "patchFromVersionCode": 69,
+  "patchNewMd5": "e8d153d83f75732839808f941dd5ebb6"
 }
