@@ -7,5 +7,8 @@
   "patchSize": 733785,
   "patchMd5": "9720e6a993ac683fd6b79633dc8f9ddd",
   "patchFromVersionCode": 70,
-  "patchNewMd5": "ce566b03f21af042c1563012aacd72b9"
+  "patchNewMd5": "ce566b03f21af042c1563012aacd72b9",
+  "comingSoon": true,
+  "comingSoonVersion": "5.4.9",
+  "comingSoonNote": "BeatBox 5.4.9 — Ring art fix, lyrics fix"
 }
