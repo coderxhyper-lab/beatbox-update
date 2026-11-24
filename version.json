@@ -7,5 +7,8 @@
   "patchSize": 734499,
   "patchMd5": "0f371fa183777e7eeee2117bf8751e2a",
   "patchFromVersionCode": 69,
-  "patchNewMd5": "e8d153d83f75732839808f941dd5ebb6"
+  "patchNewMd5": "e8d153d83f75732839808f941dd5ebb6",
+  "comingSoon": true,
+  "comingSoonVersion": "5.4.8",
+  "comingSoonNote": "BeatBox 5.4.8 — HTTP 416 fix, no-crop art, home update alert, fresh songs"
 }
