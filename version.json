@@ -1,16 +1,1 @@
-{
-  "apkMd5": "c12f9f35397f9b511d4e5ead76818068",
-  "apkSize": 11438417,
-  "apkUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-5.5.5.apk",
-  "comingSoon": true,
-  "comingSoonNote": "BeatBox 5.5.6 \u2014 Update now",
-  "comingSoonVersion": "5.5.6",
-  "notes": "BeatBox 5.5.5 \u2014 Update now",
-  "patchFromVersionCode": 77,
-  "patchMd5": "fddeb21075785c6a402fd5987c94cb63",
-  "patchNewMd5": "c12f9f35397f9b511d4e5ead76818068",
-  "patchSize": 798671,
-  "patchUrl": "https://coderxhyper-lab.github.io/beatbox-update/BeatBox-5.5.5.patch",
-  "versionCode": 78,
-  "versionName": "5.5.5"
-}
+{"apkMd5":"a2c0b8eb2d3571ef7ccdabca2b48b70e","apkSize":11454801,"apkUrl":"https://coderxhyper-lab.github.io/beatbox-update/BeatBox-5.5.6.apk","notes":"BeatBox 5.5.6 — Update now","patchFromVersionCode":78,"patchMd5":"dbbf8abb0b876a5552ebb71a332b3e47","patchNewMd5":"a2c0b8eb2d3571ef7ccdabca2b48b70e","patchSize":812626,"patchUrl":"https://coderxhyper-lab.github.io/beatbox-update/BeatBox-5.5.6.patch","versionCode":79,"versionName":"5.5.6"}
